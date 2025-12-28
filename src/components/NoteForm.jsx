@@ -45,7 +45,7 @@ export default function NoteForm({ onAdd }) {
 
       <button
         type="submit"
-        className="bg-[#111] text-white px-6 py-2 rounded"
+        className="bg-[#111 ] text-white px-6 py-2 rounded"
       >
         AGREGAR
       </button>
